@@ -4,7 +4,7 @@ Tudo bem. Já estamos verificando se um usuário já está conectado ao nosso ap
 
 Precisamos criar um botão `connectWallet`. No mundo da web3, conectar sua carteira é literalmente como se tivéssemos um botão "Cadastre-se/Faça o Login" embutido em outro botão para uma melhor experiência do usuário.
 
-Você está pronto para a experiência de cadastro mais fácil da sua vida :)? Confira o código abaixo. Deixei comentários nas linhas que modifiquei.
+Você está pronto para a experiência de cadastro mais fácil da sua vida 😊? Confira o código abaixo. Deixei comentários nas linhas que modifiquei.
 
 
 ```jsx
@@ -285,7 +285,7 @@ Agora, se você atualizar a página, sua função `checkIfWalletIsConnected` ser
 
 Grandes evoluções aqui! Você tem a sua configuração básica da interface do usuário e pode facilmente "autenticar" um usuário com sua carteira Solana. Bem fácil.
 
-Em seguida, vamos nos preparar para configurar as funções que precisamos para chamar nosso programa Solana + mexer com alguns dados. Nosso aplicativo web ainda é meio entediante/vago! Vamos mudar isso :).
+Em seguida, vamos nos preparar para configurar as funções que precisamos para chamar nosso programa Solana + mexer com alguns dados. Nosso aplicativo web ainda é meio entediante/vago! Vamos mudar isso 😊.
 
 _Observação: nas configurações da Phantom (que você pode acessar clicando na engrenagem no canto inferior direito), você verá uma seção "Trusted Apps" (Aplicativos confiáveis). Nesta seção, você verá sua URL Replit, ou `localhost:3000` se estiver executando seu aplicativo localmente. Sinta-se à vontade para **revogar** isso se quiser testar o caso de alguém que acessa o seu site, mas que nunca tinha se conectado antes. Isso basicamente redefinirá o acesso de suas carteiras ao site e mostrará o botão "Conectar à carteira" novamente._
 
@@ -294,4 +294,4 @@ _Observação: nas configurações da Phantom (que você pode acessar clicando n
 
 Por favor faça isso, senão o danicuki vai ficar triste :(
 
-Publique em `#progresso` uma captura de tela do seu console exibindo sua chave pública! Não se preocupe, é seguro compartilhar a chave pública :).
+Publique em `#progresso` uma captura de tela do seu console exibindo sua chave pública! Não se preocupe, é seguro compartilhar a chave pública 😊.

@@ -19,13 +19,13 @@ Eu acho que como a Solana é uma tecnologia muito **nova**, está mudando com fr
 
 Em 2015, eu estava bem interessado em machine learning, que era bem novo na época. Em 2015, os documentos sobre machine learning eram péssimos e era difícil apenas procurar uma resposta para uma pergunta, porque na maioria das vezes eu era a primeira pessoa a fazer essa pergunta (risos). _Cabia a mim descobrir uma resposta e, em seguida, atualizar os documentos por conta própria._
 
-Esse é o preço de brincar com uma tecnologia emergente :).
+Esse é o preço de brincar com uma tecnologia emergente 😊.
 
 Acho que a Solana está em uma situação semelhante, e quero deixar claro - **não espere uma experiência de desenvolvimento super limpa. Você provavelmente encontrará obstáculos aleatórios e cabe a você descobrir uma resposta + ajudar os outros.**
 
 Eu gosto deste [tweet](https://twitter.com/armaniferrante/status/1434554725093949452) também, que meio que apresenta uma ideia semelhante.
 
-**Dito tudo isso, eu acho que a Solana é insanamente divertida quando você a configura e entende como ela funciona. É tão rápida! As baixas taxas de gas são mágicas. É muito divertido fazer parte de uma comunidade que trabalha em uma tecnologia inovadora. Parece que você faz parte da equipe que está construindo a Solana :).**
+**Dito tudo isso, eu acho que a Solana é insanamente divertida quando você a configura e entende como ela funciona. É tão rápida! As baixas taxas de gas são mágicas. É muito divertido fazer parte de uma comunidade que trabalha em uma tecnologia inovadora. Parece que você faz parte da equipe que está construindo a Solana 😊.**
 
 ### 🤖 Instale os pré-requisitos
 
@@ -142,7 +142,7 @@ ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts --version
 ```
 
 
-O output disso deve exibir `0.0.2`. Neste ponto, estamos prontos para começar a configurar nossos NFTs :).
+O output disso deve exibir `0.0.2`. Neste ponto, estamos prontos para começar a configurar nossos NFTs 😊.
 
 **Nota**: Se você estiver no MacOS, poderá ter um problema se tiver a versão antiga da CLI do Metaplex instalada. Certifique-se de excluir o diretório `metaplex-foundation` ou `metaplex` em sua pasta `~`!
 

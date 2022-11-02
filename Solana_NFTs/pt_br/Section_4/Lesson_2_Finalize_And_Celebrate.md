@@ -90,11 +90,11 @@ Há muito trabalho a fazer e a maior parte do trabalho nem precisa ser feito com
 
 Eu quero passar rapidamente pelo significado de "trabalhar na web3" como engenheiro. _Você precisa ser um profissional na Solana? Você precisa saber como funciona cada pequena coisa sobre a blockchain?_
 
-Por exemplo, digamos que você seja um ótimo engenheiro de front-end. Se você terminou este projeto, **você tem quase tudo o que precisa para ser um ótimo engenheiro de front-end em uma empresa web3**. Por exemplo, a empresa pode dizer "Ei, por favor, vá e construa nosso recurso de conexão à carteira" - e você já terá uma ideia sólida de como fazer isso :).
+Por exemplo, digamos que você seja um ótimo engenheiro de front-end. Se você terminou este projeto, **você tem quase tudo o que precisa para ser um ótimo engenheiro de front-end em uma empresa web3**. Por exemplo, a empresa pode dizer "Ei, por favor, vá e construa nosso recurso de conexão à carteira" - e você já terá uma ideia sólida de como fazer isso 😊.
 
 Eu só quero inspirá-lo a trabalhar na web3 (risos). Essa área é incrível. E seria legal se você desse uma chance ;).
 
-Certifique-se de clicar em "Trabalhar na Web3" à esquerda e preencher seu perfil se ainda não o fez!!! **Somos parceiros de algumas das melhores empresas web3 do mundo (ex. NEAR, 1inch, Filecoin, entre outras) e elas querem contratar desenvolvedores da rede WEB3DEV :).** Você já adquiriu uma habilidade que é extremamente valiosa e as empresas estão pagando caro por incríveis engenheiros da web3.
+Certifique-se de clicar em "Trabalhar na Web3" à esquerda e preencher seu perfil se ainda não o fez!!! **Somos parceiros de algumas das melhores empresas web3 do mundo (ex. NEAR, 1inch, Filecoin, entre outras) e elas querem contratar desenvolvedores da rede WEB3DEV 😊.** Você já adquiriu uma habilidade que é extremamente valiosa e as empresas estão pagando caro por incríveis engenheiros da web3.
 
 
 ### 🤟 Seu NFT!
@@ -105,11 +105,11 @@ Enviaremos seu NFT por airdrop dentro de uma hora e enviaremos um e-mail assim q
 
 ### 🌈 Antes de sair
 
-Vá para #progresso no Discord e envie-nos o link do seu produto final, pois queremos mexer nele :).
+Vá para #progresso no Discord e envie-nos o link do seu produto final, pois queremos mexer nele 😊.
 
 Além disso, você deve twittar seu projeto final e mostrar para o mundo a sua criação épica! O que você fez não foi nada fácil. Tente até fazer um pequeno vídeo mostrando seu projeto e anexe-o ao tweet. Deixe seu tweet bonito e mostre para o mundo o que você fez!!
 
-E se você quiser, marque a @web3dev_ :). **Isso nos dá muita motivação, sempre que vemos as pessoas enviarem seus projetos.** Além disso, você pode inspirar outra pessoa a entrar no mundo da Solana.
+E se você quiser, marque a @web3dev_ 😊. **Isso nos dá muita motivação, sempre que vemos as pessoas enviarem seus projetos.** Além disso, você pode inspirar outra pessoa a entrar no mundo da Solana.
 
 Nos dê essa dose de dopamina, por favor.
 

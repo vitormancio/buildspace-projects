@@ -77,7 +77,7 @@ Para começar, recomendo escolher três PNGs com os quais você se identifica. T
 
 Escolha três de seus favoritos.
 
-Vou escolher Naruto, Sasuke e Sakura – meu trio de anime favorito :).
+Vou escolher Naruto, Sasuke e Sakura – meu trio de anime favorito 😊.
 
 Observação: Agora, apenas PNGs são suportados por meio da CLI. Para outros tipos de arquivos como MP4, MP3, HTML, etc, você precisa criar um script personalizado. Veja o problema no Github por [aqui](https://github.com/metaplex-foundation/metaplex/issues/511).
 

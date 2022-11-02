@@ -4,7 +4,7 @@ Comece indo para este [link do GitHub](https://github.com/buildspace/nft-drop-st
 
 ![https://camo.githubusercontent.com/9d6a1aa7765bed6299de46f335c6d289c2675623b4613b4487bc5fbbbeb9b97d/68747470733a2f2f692e696d6775722e636f6d2f7032465479414d2e706e67](https://camo.githubusercontent.com/9d6a1aa7765bed6299de46f335c6d289c2675623b4613b4487bc5fbbbeb9b97d/68747470733a2f2f692e696d6775722e636f6d2f7032465479414d2e706e67)
 
-Massa! Quando você faz o fork deste repositório, na verdade você está criando uma cópia idêntica dele que fica no seu perfil do Github. Então agora você tem sua própria versão deste código que você pode editar para o conteúdo de sua escolha :). Isso também será útil quando estivermos prontos para implantar nosso aplicativo no Vercel 🤘.
+Massa! Quando você faz o fork deste repositório, na verdade você está criando uma cópia idêntica dele que fica no seu perfil do Github. Então agora você tem sua própria versão deste código que você pode editar para o conteúdo de sua escolha 😊. Isso também será útil quando estivermos prontos para implantar nosso aplicativo no Vercel 🤘.
 
 O passo final aqui é transferir o repositório do fork que você acabou de fazer para a sua máquina local. Clique no botão "Code" (Código) e copie esse link!
 
@@ -18,7 +18,7 @@ git clone SEU_LINK_DO_FORK
 ```
 
 
-Aí está :). Hora de codificar!
+Aí está 😊. Hora de codificar!
 
 
 ### 🔌 Criando um botão de conexão de carteira com a Phantom Wallet
@@ -201,7 +201,7 @@ _Neste ponto, você ainda deve estar vendo apenas o log "Phantom Wallet encontra
 
 Não se preocupe se você estiver vendo o erro "User Rejected Request" (solicitação do usuário rejeitada) no console. É totalmente esperado neste ponto do projeto ;), Está lá porque adicionamos esse parâmetro `onlyIfTrusted: true` dentro do método `connect`. Isso fará com que a carteira Phantom rejeite a solicitação de conexão do usuário por enquanto (como o nome do erro sugere 😁).
 
-Por que isso? Bem, o método `connect` com o parâmetro `onlyIfTrusted` definido como `true` só será executado se o usuário já tiver autorizado uma conexão entre sua carteira e o aplicativo da web. **O que nunca fizeram até agora.** Vamos fazer isso em seguida :).
+Por que isso? Bem, o método `connect` com o parâmetro `onlyIfTrusted` definido como `true` só será executado se o usuário já tiver autorizado uma conexão entre sua carteira e o aplicativo da web. **O que nunca fizeram até agora.** Vamos fazer isso em seguida 😊.
 
 
 ### 🚨 Relatório de progresso
