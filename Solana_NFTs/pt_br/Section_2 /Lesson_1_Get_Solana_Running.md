@@ -144,4 +144,4 @@ SUBCOMMANDS:
 
 *Por favor, faça isso, senão o Farza vai ficar triste 😔*
 
-Em `#progress`, publique uma captura de tela do seu terminal mostrando o output do comando `solana config get`!
+Em `#progresso`, publique uma captura de tela do seu terminal mostrando o output do comando `solana config get`!

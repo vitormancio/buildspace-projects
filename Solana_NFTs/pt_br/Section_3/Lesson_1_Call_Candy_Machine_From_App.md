@@ -372,4 +372,4 @@ Não se preocupe! Na próxima seção vamos construir a lógica para este botão
 
 _Por favor, faça isso, senão o Farza vai ficar triste 😔_
 
-Em `#progress`, deixe uma captura de tela do seu aplicativo web mostrando como ele renderiza os dados que recupera de sua Candy Machine!
+Em `#progresso`, deixe uma captura de tela do seu aplicativo web mostrando como ele renderiza os dados que recupera de sua Candy Machine!

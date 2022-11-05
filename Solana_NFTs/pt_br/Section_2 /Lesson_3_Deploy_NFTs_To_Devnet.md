@@ -299,4 +299,4 @@ Isso significa que o comando não pode acessar o arquivo `cache.json` com os dad
 
 Por favor, faça isso, senão o Farza vai ficar triste 😔
 
-Poste um dos links Arweave dos seus NFTs em `#progress`!
+Poste um dos links Arweave dos seus NFTs em `#progresso`!
