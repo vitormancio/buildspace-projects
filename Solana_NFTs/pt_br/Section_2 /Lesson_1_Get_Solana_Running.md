@@ -142,6 +142,6 @@ SUBCOMMANDS:
 
 ### 🚨 Relatório de progresso
 
-*Por favor, faça isso, senão o Farza vai ficar triste :(*
+*Por favor, faça isso, senão o Farza vai ficar triste 😔*
 
 Em `#progress`, publique uma captura de tela do seu terminal mostrando o output do comando `solana config get`!

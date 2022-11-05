@@ -50,7 +50,7 @@ Vamos te dar alguma representação em código aberto!!!
 
 ### 🚨 Relatório de progresso
 
-_Por favor, faça isso, senão o Farza vai ficar triste :(_
+_Por favor, faça isso, senão o Farza vai ficar triste 😔_
 
 Ei! Vá em frente e diga gm em `#gm-only` no Discord. Isto é muito importante. Extremamente importante.
 

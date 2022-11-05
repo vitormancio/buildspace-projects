@@ -198,6 +198,6 @@ Gaste um tempo apenas limpando o CSS e fazendo com que as coisas fiquem com uma 
 
 ### 🚨 Relatório de progresso
 
-Por favor, faça isso, senão o Farza vai ficar triste :(
+Por favor, faça isso, senão o Farza vai ficar triste 😔
 
 Em `#progress`, poste uma captura de tela do seu aplicativo da web!

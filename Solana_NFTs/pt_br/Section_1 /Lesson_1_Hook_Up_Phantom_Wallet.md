@@ -185,6 +185,6 @@ E é isso!
 
 ### 🚨 Relatório de progresso
 
-_Por favor, faça isso, senão o Farza vai ficar triste :(_
+_Por favor, faça isso, senão o Farza vai ficar triste 😔_
 
 Poste uma captura de tela em `#progress` mostrando a mensagem "Phantom wallet encontrada!" no seu console. Pode parecer simples, mas, muitas pessoas não sabem como fazer essas coisas! É épico.
