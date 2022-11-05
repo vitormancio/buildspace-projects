@@ -17,7 +17,7 @@ import { useWallet } from "@solana/wallet-adapter-react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 
 // Constantes
-const TWITTER_HANDLE = "_buildspace";
+const TWITTER_HANDLE = "_web3dev";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const Home = () => {
